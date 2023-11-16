@@ -1,0 +1,40 @@
+.page-footer, .top-nav-collapse {
+  background-color: #006db6 !important;
+}
+
+.md-form input:focus:not([readonly]),
+.md-form textarea:focus:not([readonly]) {
+  box-shadow: 0 1px 0 0 #006db6 !important;
+  border-bottom: 1px solid #006db6 !important;
+}
+
+.md-form > label.active {
+  color: #006db6 !important;
+}
+
+.line-shape {
+  margin-left: calc(50% - 40px);
+  width: 80px;
+  height: 2px;
+  background-color: #777;
+  margin-top: 15px;
+}
+
+.sticky-footer {
+  width: 100%;
+  position: absolute;
+  bottom: 0;
+}
+
+.dropdown-item:hover {
+  color: white !important;
+  background-color: #006db6 !important;
+}
+
+.highcharts-credits {
+  visibility: hidden !important;
+}
+
+.highcharts-container, .card {
+  width: 100% !important;
+}

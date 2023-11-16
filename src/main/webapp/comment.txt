@@ -1,0 +1,18 @@
+the shema of pages should be like this site => https://www.brandevolutionco.com/photo-editing/
+this site for vinding free and nice img https://www.pexels.com/ 
+the img should match with colors of page 
+
+1)add show insert the comment of client 
+
+
+
+add advertising
+التركيز اساس النجاح
+  CREATE USER 'deidine'@'deidine' IDENTIFIED BY 'med';
+ GRANT ALL PRIVILEGES ON * . * TO  'deidine'@'deidine';
+ FLUSH PRIVILEGES;
+ DROP USER 'deidine'@'localhost';
+ select user from MySQl.user;
+ 
+ 
+ for downolead jar file http://www.java2s.com/ref/jar/
